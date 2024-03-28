@@ -7,7 +7,7 @@ Concepts Needed:
 
  - Understand how to read from sys.stdin line by line.
  - Python Input and Output
- - 
+
  2- Signal Handling in Python:
 
  - Handling keyboard interruption (CTRL + C) using signal handling in Python.
@@ -16,7 +16,7 @@ Concepts Needed:
   3- Data Processing:
 
  - Parsing strings to extract specific data points.
-- Aggregating data to compute summaries.
+ - Aggregating data to compute summaries.
 
   4- Regular Expressions:
   
